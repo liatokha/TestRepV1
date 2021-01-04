@@ -1,5 +1,9 @@
 3) File3
 Added in Feature-branch...
+HEAD:>>
 After creating "Feature"-branch.
 -----------------------------
 Add string without "feature"
+=======
+After creating "Feature"-branch.
+35a4027472344300d1bede84e880930017913b1b
