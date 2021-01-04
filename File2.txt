@@ -1,0 +1,2 @@
+File2
+It additional file on Master branch.
