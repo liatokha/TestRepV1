@@ -1,0 +1,9 @@
+
+>> d:\las\programming\git\TestRepV1\***
+
+"feature2": fist file.  
+"feature" - add new fold "fold1".
+File is created on brand-new "Feature2" local-branch.
+
+
+
