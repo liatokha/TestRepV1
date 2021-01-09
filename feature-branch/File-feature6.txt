@@ -1,4 +1,4 @@
-4) 4 File.
+6) 6 File.
 File is created on brand-new "Feature" local-branch.
 
---Changes---for---amend--
+--Changes-
